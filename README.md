@@ -1,6 +1,8 @@
 # xtnptimevar
 Performs Estimations of Non-Parametric Time-Varying Coefficients Panel Data Models with Fixed Effects Use xtnptimevar With STATA 19
 
+https://www.youtube.com/watch?v=sxcCozWbqdM
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
